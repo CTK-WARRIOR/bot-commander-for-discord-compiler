@@ -16,7 +16,7 @@
     "command": "!meme",
     "commandDescription": "",
     "deleteAfter": false,
-   "deleteIf": false, 
+    "deleteIf": false, 
     "deleteIfStrings": "",
     "deleteNum": 0,
     "deleteX": false,
