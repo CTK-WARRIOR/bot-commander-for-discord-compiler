@@ -1,0 +1,45 @@
+[
+  {
+    "actionArr": [
+      false,
+      false
+    ],
+    "channelEmbed": {
+      "description": "meow",
+      "footer": "",
+      "hexColor": "#ff205",
+      "imageURL": "https://ctk-api.herokuapp.com/meme/$rollnum(10, 1000)",
+      "thumbnailURL": "",
+      "title": "MEME"
+    },
+    "channelMessage": "",
+    "command": "!meme",
+    "commandDescription": "",
+    "deleteAfter": false,
+   "deleteIf": false, 
+    "deleteIfStrings": "",
+    "deleteNum": 0,
+    "deleteX": false,
+    "ignoreErrorMessages": false,
+    "isAdmin": false,
+    "isBan": false,
+    "isKick": false,
+    "isNSFW": false,
+    "isReact": false,
+    "isRequiredRole": false,
+    "isRoleAssigner": false,
+    "isSpecificChannel": false,
+    "isSpecificMessage": false,
+    "isVoiceMute": false,
+    "phrase": false,
+    "privateMessage": "",
+    "reaction": "",
+    "requiredRole": "",
+    "roleToAssign": "",
+    "sendChannelEmbed": true,
+    "sendPrivateEmbed": false,
+    "specificChannel": "814617363815071765",
+    "specificMessage": "",
+    "type": 0
+  }
+]
